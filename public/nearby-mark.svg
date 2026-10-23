@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nearby paired hearts">
+  <rect x="2" y="2" width="60" height="60" rx="21" fill="#D94B73"/>
+  <path d="M32 48 13.6 31.5C2.4 20.8 18.1 8.1 28.1 18.4L32 22.4l3.9-4C45.9 8.1 61.6 20.8 50.4 31.5L32 48Z" fill="#FFF8F5"/>
+  <path d="M32 23.5v18" fill="none" stroke="#D94B73" stroke-linecap="round" stroke-width="2.4" opacity=".68"/>
+</svg>

@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Nearby — a little closer to love"},{"path":"/login","title":"Log in"},{"path":"/signup","title":"Create account"},{"path":"/onboarding","title":"Your profile"},{"path":"/discover","title":"Discover"},{"path":"/matches","title":"Your matches"},{"path":"/chat/:matchId","title":"Chat"}]}
